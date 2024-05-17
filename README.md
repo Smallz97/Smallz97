@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Smallz97, I'm a Frontend Engineer.
-- 💞️ I’m looking to collaborate on open source projects with focus on building scalable technological solutions to indegenious african problems.
+- 💞️ I love building scalable modern web apps and other technological solutions for indegenious african problems.
 - 📫 You can reach me by mail on taiwo.vicktor97@gmail.com. Also follow me on twitter @taiwovicktor.
 
 <!---
