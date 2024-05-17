@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Smallz97, I'm a Frontend Engineer.
+- 👋 Hi, I’m @Smallz97, I'm a Frontend Web Developer.
 - 💞️ I love building scalable modern web apps and other technological solutions for indegenious african problems.
 - 📫 You can reach me by mail on taiwo.vicktor97@gmail.com. Also follow me on twitter @taiwovicktor.
 
